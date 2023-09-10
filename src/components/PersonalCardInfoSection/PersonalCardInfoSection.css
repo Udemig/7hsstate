@@ -1,0 +1,14 @@
+.infoBox{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.value{
+    font-size: 20px;
+}

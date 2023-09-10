@@ -1,0 +1,20 @@
+.header-right div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    }
+    
+    .online-user{
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .count{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    
+    .user-name{
+        font-size: 35px;
+        font-weight: 400;
+        text-align: center;
+    }
